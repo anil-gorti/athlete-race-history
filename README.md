@@ -1,4 +1,4 @@
-# WONE — My Results
+# WONE — Athlete Race History
 
 Standalone module for athletes to view and manage their race history.
 Designed to drop into any Next.js + FastAPI app — no Strava dependency.
